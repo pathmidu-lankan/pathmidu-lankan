@@ -37,10 +37,10 @@
 <h3 align="center">📫 Connect With Me</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/pathmidu-lankan" target="_blank">
+  <a href="https://www.linkedin.com/in/pathmidu-lankan-1209072b1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin" />
   </a>
-  <a href="mailto:pathmidulankan@gmail.com" target="_blank">
+  <a href="mailto:pathmidulankand19@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail" />
   </a>
 </div>
